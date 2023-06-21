@@ -1,0 +1,10 @@
+.content{
+    height: 900px;
+    /* background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+  background-attachment: fixed;
+}*/
+background: url(./images/img_tree.png) no-repeat right top fixed;
+}
